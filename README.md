@@ -1,10 +1,10 @@
 
-# 🏡Government Organizations Vehicles Analysis Project
+# 🏡Government Organizations Vehicle Analysis Project
 
 
 
 ## 📄Overview
-In this project, I worked as a Junior Data Analyst for a local government office. The objective was to, clean, analyze and categorize the fleet data to identify the count and types of vehicles utilized across various government organizations.
+In this project, I worked as a Junior Data Analyst for a local government office. The objective was to clean, analyze and categorize the fleet data to identify the count and types of vehicles utilized across various government organizations.
 ## 📊Dataset
 - **Source:** [Government Fleet Equipment (vehicle) Dataset] (https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data).  
 - **File 1 (Size):** 54 rows and 4 columns.
