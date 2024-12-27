@@ -39,9 +39,3 @@ Step 2- Open the downloaded files in excel.
 - Identified which organization uses the most, least vehicles, and types of vehicle.
 ## 🤝Contact
 💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 kshitijsingh24k@gmail.com
-## 🛠️How to Run the Project
-Step 1- Download the excel project files.
-
-Step 2- Open the downloaded files in excel.
-
-{**Note:** The second project file contains 4 excel worksheets inside it.}
