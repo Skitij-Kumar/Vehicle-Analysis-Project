@@ -34,7 +34,7 @@ In this project, I worked as a Junior Data Analyst for a local government office
 ## 🛠️How to Run the Project
 Step 1- Download the excel project files.
 
-Step 2- Open the downloaded files in excel (or watch short video given in demo link).
+Step 2- Open the downloaded files in excel (or watch short video using link given in demo section).
 
 {**Note:** The second project file contains 6 excel worksheets inside it.}
 ## 🔗Demo
