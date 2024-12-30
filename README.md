@@ -39,7 +39,7 @@ Step 2- Open the downloaded files in excel (or watch short video using link give
 {**Note:** The second project file contains 6 excel worksheets inside it.}
 ## 🔗Demo
 - Watch short video of excel project file 1 by clicking on given link: (https://drive.google.com/file/d/1LFhqudWTkEGvxMlDcvYQaPysN-szL0kD/view?usp=drive_link)
-- Watch short video of excel file 2 by clicking on given link: (https://drive.google.com/file/d/1bRy9v6n9eTX7l1Zv_WS2DdGd2Cn7uKB9/view?usp=drive_link)
+- Watch short video of excel project file 2 by clicking on given link: (https://drive.google.com/file/d/1bRy9v6n9eTX7l1Zv_WS2DdGd2Cn7uKB9/view?usp=drive_link)
 
 ## 🌟Highlights
 - Fixed all inconsistencies in the data through cleaning, making it accurate, reliable, and ready for analysis.
