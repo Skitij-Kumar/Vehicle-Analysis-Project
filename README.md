@@ -4,7 +4,7 @@
 
 
 ## 📄Overview
-In this project, I worked as a Junior Data Analyst for a local government office. The objective was to clean, analyze and categorize the fleet data to identify the count and types of vehicles utilized across various government organizations.
+In this project, I worked as a Junior Data Analyst for a local government office. The objective was to clean, analyze, categorize and visualized the fleet data to identify the count and types of vehicles utilized across various government organizations.
 ## 📊Dataset
 - **Source:** [Government Fleet Equipment (vehicle) Dataset] (https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data).  
 - **File 1 (Size):** 54 rows and 4 columns.
@@ -13,7 +13,8 @@ In this project, I worked as a Junior Data Analyst for a local government office
 - **Tools used:** Excel
 - **Features used:** 
   - **Data Preprocessing:** Autosum, flash fill, conditional formating, spell check, find and replace.
-  -  **Analyzing Data:** Pivot tables, autosum, filter, and sorting. 
+  - **Analyzing Data:** Pivot tables, autosum, filter, and sorting.
+  - **Visualizing:** Dashboard including slicers, column and bar chart.  
 ## 🚀Steps / Workflow
 1. 🔍 **Data Cleaning (performed on 1st file):** 
 - Removed blank rows, whitespaces, and duplicates.
@@ -23,6 +24,9 @@ In this project, I worked as a Junior Data Analyst for a local government office
 - Calculated values (SUM, AVERAGE, MIN, MAX, COUNT).
 - Created Pivot Tables to summarize data.
 - Analyzed data using the PivotTable Fields Pane for deeper insights.
+3. 📊**Visualization:**
+- Built dashboard to visualize types of vehicles used per department.
+- Visualized using slicers, column and bar chart.
 ## 🎯Results
 - The Transportation organization used the highest number of vehicles.
 - Transit buses are exclusively used in the Transportation organization.
@@ -30,10 +34,12 @@ In this project, I worked as a Junior Data Analyst for a local government office
 ## 🛠️How to Run the Project
 Step 1- Download the excel project files.
 
-Step 2- Open the downloaded files in excel.
+Step 2- Open the downloaded files in excel (or watch short video given in demo link).
 
-{**Note:** The second project file contains 4 excel worksheets inside it.}
+{**Note:** The second project file contains 6 excel worksheets inside it.}
 ## 🔗Demo
+- Watch short video of excel project file 1 by clicking on given link: (https://drive.google.com/file/d/1LFhqudWTkEGvxMlDcvYQaPysN-szL0kD/view?usp=drive_link)
+- Watch short video of excel file 2 by clicking on given link: (https://drive.google.com/file/d/1bRy9v6n9eTX7l1Zv_WS2DdGd2Cn7uKB9/view?usp=drive_link)
 
 ## 🌟Highlights
 - Fixed all inconsistencies in the data through cleaning, making it accurate, reliable, and ready for analysis.
